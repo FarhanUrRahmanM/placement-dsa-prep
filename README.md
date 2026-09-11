@@ -14,4 +14,24 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
