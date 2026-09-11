@@ -1,0 +1,39 @@
+/**
+ * Definition for a binary tree node.
+ */
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode() {}
+    TreeNode(int val) { this.val = val; }
+    TreeNode(int val, TreeNode left, TreeNode right) {
+        this.val = val;
+        this.left = left;
+        this.right = right;
+    }
+}
+
+/**
+ * Solution for LeetCode 98: Validate Binary Search Tree.
+ */
+class Solution1 {
+    /**
+     * Validates if a binary tree is a valid BST.
+     * @param root The root of the binary tree.
+     * @return true if valid, false otherwise.
+     */
+    public boolean isValidBST(TreeNode root) {
+        return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
+    boolean check(TreeNode root, long min, long max) {
+        if (root == null) {
+            return true;
+        }
+        if (root.val <= min || root.val >= max) {
+            return false;
+        }
+        return check(root.left, min, root.val) && check(root.right, root.val, max);
+    }
+}
