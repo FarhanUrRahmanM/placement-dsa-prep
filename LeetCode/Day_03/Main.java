@@ -15,5 +15,9 @@ public class Main {
         root2.right.left = new TreeNode(3);
         root2.right.right = new TreeNode(6);
         System.out.println("Test 2 (Invalid): " + solver.isValidBST(root2));
+        
+        // Test 3: Single node
+        TreeNode root3 = new TreeNode(1);
+        System.out.println("Test 3 (Single): " + solver.isValidBST(root3));
     }
 }
