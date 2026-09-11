@@ -6,6 +6,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
+| [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 ## Greedy
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
+| [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
+## Matrix
+|  |
+| ------- |
+| [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 <!---LeetCode Topics End-->
