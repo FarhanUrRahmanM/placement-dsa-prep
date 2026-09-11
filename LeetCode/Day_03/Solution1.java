@@ -14,6 +14,9 @@ class TreeNode {
     }
 }
 
+/**
+ * Solution for LeetCode 98: Validate Binary Search Tree.
+ */
 class Solution1 {
     /**
      * Validates if a binary tree is a valid BST.
@@ -23,6 +26,7 @@ class Solution1 {
     public boolean isValidBST(TreeNode root) {
         return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
+
     boolean check(TreeNode root, long min, long max) {
         if (root == null) {
             return true;
