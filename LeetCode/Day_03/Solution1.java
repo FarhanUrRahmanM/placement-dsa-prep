@@ -1,8 +1,8 @@
 class Solution1 {
     public boolean isValidBST(TreeNode root) {
-        return check(root, Integer.MIN_VALUE, Integer.MAX_VALUE);
+        return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
-    boolean check(TreeNode root, int min, int max) {
+    boolean check(TreeNode root, long min, long max) {
         if (root == null) {
             return true;
         }
