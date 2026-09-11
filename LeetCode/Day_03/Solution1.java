@@ -15,6 +15,11 @@ class TreeNode {
 }
 
 class Solution1 {
+    /**
+     * Validates if a binary tree is a valid BST.
+     * @param root The root of the binary tree.
+     * @return true if valid, false otherwise.
+     */
     public boolean isValidBST(TreeNode root) {
         return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
     }
