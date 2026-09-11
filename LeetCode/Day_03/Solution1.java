@@ -9,6 +9,6 @@ class Solution1 {
         if (root.val <= min || root.val >= max) {
             return false;
         }
-        return check(root.left, min, root.val);
+        return check(root.left, min, root.val) && check(root.right, root.val, max);
     }
 }
