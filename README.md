@@ -29,6 +29,7 @@ Arrays , searching ,sorting
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
@@ -40,12 +41,14 @@ Arrays , searching ,sorting
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
@@ -70,4 +73,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
