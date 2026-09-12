@@ -20,6 +20,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
+| [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,4 +62,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
