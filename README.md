@@ -33,6 +33,7 @@ Arrays , searching ,sorting
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Arrays , searching ,sorting
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
