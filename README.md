@@ -89,4 +89,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
