@@ -93,4 +93,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0185-department-top-three-salaries) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
