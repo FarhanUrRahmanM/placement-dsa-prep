@@ -6,6 +6,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0120-triangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
@@ -13,6 +14,7 @@ Arrays , searching ,sorting
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
 ## Linked List
 |  |
@@ -24,6 +26,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
