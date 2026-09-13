@@ -45,6 +45,7 @@ Arrays , searching ,sorting
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Arrays , searching ,sorting
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Arrays , searching ,sorting
 | [0124-binary-tree-maximum-path-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -98,6 +101,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
