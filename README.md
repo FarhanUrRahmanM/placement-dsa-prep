@@ -5,6 +5,7 @@ Arrays , searching ,sorting
 ## Array
 |  |
 | ------- |
+| [0120-triangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
@@ -22,6 +23,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
+| [0120-triangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
