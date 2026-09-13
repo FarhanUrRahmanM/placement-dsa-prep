@@ -17,6 +17,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
 ## Breadth-First Search
 |  |
 | ------- |
