@@ -1,31 +1,32 @@
 class Solution {
     public int largestOverlap(int[][] img1, int[][] img2) {
         int n = img1.length;
-        int ans = 0;
+        int max = 0;
 
-        for (int dr = -n + 1; dr < n; dr++) {
-            for (int dc = -n + 1; dc < n; dc++) {
+        for (int dr = -(n - 1); dr <= n - 1; dr++) {
+            for (int dc = -(n - 1); dc <= n - 1; dc++) {
 
                 int count = 0;
 
-                for (int i = 0; i < n; i++) {
-                    for (int j = 0; j < n; j++) {
+                for (int r = 0; r < n; r++) {
+                    for (int c = 0; c < n; c++) {
 
-                        int x = i + dr;
-                        int y = j + dc;
+                        int r2 = r + dr;
+                        int c2 = c + dc;
 
-                        if (x >= 0 && x < n && y >= 0 && y < n) {
-                            if (img1[i][j] == 1 && img2[x][y] == 1) {
-                                count++;
-                            }
+                        if (r2 >= 0 && r2 < n &&
+                            c2 >= 0 && c2 < n &&
+                            img1[r][c] == 1 &&
+                            img2[r2][c2] == 1) {
+                            count++;
                         }
                     }
                 }
 
-                ans = Math.max(ans, count);
+                max = Math.max(max, count);
             }
         }
 
-        return ans;
+        return max;
     }
 }
