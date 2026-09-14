@@ -35,6 +35,7 @@ Arrays , searching ,sorting
 | [0124-binary-tree-maximum-path-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 ## Backtracking
 |  |
@@ -106,6 +107,7 @@ Arrays , searching ,sorting
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
@@ -129,6 +131,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0172-factorial-trailing-zeroes) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 ## DP on Trees
 |  |
@@ -152,6 +155,7 @@ Arrays , searching ,sorting
 | [0203-remove-linked-list-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,4 +164,12 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
