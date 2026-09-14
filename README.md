@@ -120,6 +120,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0172-factorial-trailing-zeroes) |
+| [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 ## DP on Trees
 |  |
 | ------- |
@@ -132,4 +133,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
