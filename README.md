@@ -10,6 +10,7 @@ Arrays , searching ,sorting
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
+| [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
@@ -146,4 +147,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
