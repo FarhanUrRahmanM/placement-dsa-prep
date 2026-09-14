@@ -24,6 +24,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
+| [0203-remove-linked-list-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Arrays , searching ,sorting
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 ## Prefix Sum
 |  |
