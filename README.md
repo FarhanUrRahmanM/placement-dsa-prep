@@ -27,6 +27,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
+| [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -122,6 +123,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
@@ -159,6 +161,7 @@ Arrays , searching ,sorting
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
@@ -170,6 +173,7 @@ Arrays , searching ,sorting
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
