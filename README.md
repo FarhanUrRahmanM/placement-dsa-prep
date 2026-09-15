@@ -19,6 +19,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Arrays , searching ,sorting
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Arrays , searching ,sorting
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
 | ------- |
