@@ -52,6 +52,7 @@ Arrays , searching ,sorting
 | [0077-combinations](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 ## Tree
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Arrays , searching ,sorting
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
@@ -114,6 +116,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0100-same-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
@@ -122,6 +125,7 @@ Arrays , searching ,sorting
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
@@ -212,4 +216,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
