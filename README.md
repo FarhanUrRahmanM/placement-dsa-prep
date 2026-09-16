@@ -28,6 +28,7 @@ Arrays , searching ,sorting
 | [0083-remove-duplicates-from-sorted-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -181,6 +182,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -196,4 +198,16 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
