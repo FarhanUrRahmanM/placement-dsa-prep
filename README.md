@@ -14,6 +14,7 @@ Arrays , searching ,sorting
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
@@ -45,6 +46,7 @@ Arrays , searching ,sorting
 | [0152-maximum-product-subarray](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
