@@ -167,6 +167,7 @@ Arrays , searching ,sorting
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
@@ -193,6 +194,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
@@ -263,4 +265,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
