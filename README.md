@@ -16,6 +16,7 @@ Arrays , searching ,sorting
 | [0198-house-robber](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
@@ -83,6 +84,7 @@ Arrays , searching ,sorting
 | [0098-validate-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0098-validate-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Tree
 |  |
@@ -117,6 +119,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0174-dungeon-game) |
+| [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 ## Hash Table
 |  |
@@ -234,6 +237,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
