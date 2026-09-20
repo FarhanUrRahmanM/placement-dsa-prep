@@ -21,6 +21,7 @@ Arrays , searching ,sorting
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ Arrays , searching ,sorting
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -220,6 +222,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
+| [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Two Pointers
 |  |
