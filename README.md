@@ -198,6 +198,7 @@ Arrays , searching ,sorting
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0185-department-top-three-salaries) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1070-product-sales-analysis-iii) |
