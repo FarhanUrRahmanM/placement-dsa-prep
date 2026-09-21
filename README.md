@@ -16,6 +16,7 @@ Arrays , searching ,sorting
 | [0198-house-robber](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0213-house-robber-ii) |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
@@ -263,11 +264,13 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -283,6 +286,7 @@ Arrays , searching ,sorting
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 ## Queue
 |  |
@@ -296,4 +300,20 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
