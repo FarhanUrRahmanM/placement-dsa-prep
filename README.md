@@ -25,6 +25,7 @@ Arrays , searching ,sorting
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Arrays , searching ,sorting
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3524-find-x-value-of-array-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Arrays , searching ,sorting
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3524-find-x-value-of-array-i) |
 ## DP on Trees
 |  |
 | ------- |
