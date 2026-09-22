@@ -49,6 +49,7 @@ Arrays , searching ,sorting
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -173,6 +174,7 @@ Arrays , searching ,sorting
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
