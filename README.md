@@ -69,6 +69,7 @@ Arrays , searching ,sorting
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0113-path-sum-ii) |
@@ -330,4 +331,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
