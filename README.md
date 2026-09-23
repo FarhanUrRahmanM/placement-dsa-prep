@@ -16,6 +16,7 @@ Arrays , searching ,sorting
 | [0198-house-robber](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
@@ -79,6 +80,7 @@ Arrays , searching ,sorting
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
+| [0216-combination-sum-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 ## Tree
 |  |
