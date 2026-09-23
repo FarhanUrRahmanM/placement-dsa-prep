@@ -194,6 +194,7 @@ Arrays , searching ,sorting
 | [0072-edit-distance](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -374,4 +375,28 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
