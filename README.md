@@ -143,6 +143,7 @@ Arrays , searching ,sorting
 | [0144-binary-tree-preorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Matrix
@@ -174,11 +175,13 @@ Arrays , searching ,sorting
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 ## String
 |  |
 | ------- |
@@ -355,4 +358,12 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0146-lru-cache) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
