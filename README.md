@@ -226,6 +226,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0191-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
@@ -309,6 +310,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
