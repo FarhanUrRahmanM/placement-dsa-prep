@@ -19,6 +19,7 @@ Arrays , searching ,sorting
 | [0216-combination-sum-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0216-combination-sum-iii) |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
@@ -348,6 +349,7 @@ Arrays , searching ,sorting
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sweep Line
@@ -359,6 +361,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 ## Simulation
 |  |
 | ------- |
@@ -380,6 +383,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+| [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 ## Ordered Set
 |  |
 | ------- |
@@ -432,4 +436,12 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
