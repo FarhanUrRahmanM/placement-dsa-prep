@@ -24,6 +24,7 @@ Arrays , searching ,sorting
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
+| [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
@@ -296,6 +297,7 @@ Arrays , searching ,sorting
 | [0155-min-stack](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
 |  |
@@ -351,6 +353,7 @@ Arrays , searching ,sorting
 | [0191-number-of-1-bits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 ## Sorting
 |  |
 | ------- |
@@ -393,10 +396,12 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -471,4 +476,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
