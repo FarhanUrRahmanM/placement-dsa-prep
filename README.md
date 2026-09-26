@@ -78,6 +78,7 @@ Arrays , searching ,sorting
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -94,6 +95,7 @@ Arrays , searching ,sorting
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
@@ -280,6 +282,7 @@ Arrays , searching ,sorting
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
+| [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
