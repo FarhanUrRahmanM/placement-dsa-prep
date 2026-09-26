@@ -22,6 +22,7 @@ Arrays , searching ,sorting
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
@@ -259,6 +260,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0260-single-number-iii) |
 ## Database
 |  |
 | ------- |
