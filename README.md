@@ -200,6 +200,7 @@ Arrays , searching ,sorting
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
@@ -239,6 +240,7 @@ Arrays , searching ,sorting
 | [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -382,6 +384,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+| [0242-valid-anagram](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Merge Sort
