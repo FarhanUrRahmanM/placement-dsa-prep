@@ -24,6 +24,7 @@ Arrays , searching ,sorting
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0260-single-number-iii) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
@@ -131,6 +132,7 @@ Arrays , searching ,sorting
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
@@ -273,6 +275,7 @@ Arrays , searching ,sorting
 | [0137-single-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 ## Database
 |  |
 | ------- |
@@ -342,6 +345,7 @@ Arrays , searching ,sorting
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
@@ -491,4 +495,12 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
