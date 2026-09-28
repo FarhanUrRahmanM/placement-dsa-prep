@@ -99,6 +99,7 @@ Arrays , searching ,sorting
 | [0216-combination-sum-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Tree
@@ -244,6 +245,7 @@ Arrays , searching ,sorting
 | [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0306-additive-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
