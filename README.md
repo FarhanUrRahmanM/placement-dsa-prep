@@ -94,6 +94,7 @@ Arrays , searching ,sorting
 | [0113-path-sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
@@ -117,6 +118,7 @@ Arrays , searching ,sorting
 | [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Binary Search Tree
@@ -151,6 +153,7 @@ Arrays , searching ,sorting
 | [0145-binary-tree-postorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 ## Depth-First Search
@@ -174,6 +177,7 @@ Arrays , searching ,sorting
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
@@ -229,6 +233,7 @@ Arrays , searching ,sorting
 | [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
