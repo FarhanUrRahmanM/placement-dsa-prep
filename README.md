@@ -340,6 +340,7 @@ Arrays , searching ,sorting
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Geometry
 |  |
