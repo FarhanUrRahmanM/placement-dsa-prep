@@ -23,6 +23,7 @@ Arrays , searching ,sorting
 | [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
@@ -395,6 +396,7 @@ Arrays , searching ,sorting
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0242-valid-anagram](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Merge Sort
@@ -540,4 +542,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
