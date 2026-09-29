@@ -26,6 +26,7 @@ Arrays , searching ,sorting
 | [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
+| [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
@@ -199,6 +200,7 @@ Arrays , searching ,sorting
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
@@ -329,6 +331,7 @@ Arrays , searching ,sorting
 | [0155-min-stack](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
@@ -353,6 +356,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
