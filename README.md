@@ -87,6 +87,7 @@ Arrays , searching ,sorting
 | [0221-maximal-square](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
@@ -241,6 +242,7 @@ Arrays , searching ,sorting
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
@@ -321,6 +323,7 @@ Arrays , searching ,sorting
 | [0227-basic-calculator-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
@@ -532,10 +535,12 @@ Arrays , searching ,sorting
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 ## Sqrt Decomposition
 |  |
