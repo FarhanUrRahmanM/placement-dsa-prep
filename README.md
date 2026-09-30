@@ -198,6 +198,7 @@ Arrays , searching ,sorting
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 ## Matrix
@@ -244,6 +245,7 @@ Arrays , searching ,sorting
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
@@ -251,6 +253,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0133-clone-graph](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 ## String
 |  |
 | ------- |
@@ -488,6 +491,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
