@@ -34,6 +34,7 @@ Arrays , searching ,sorting
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
+| [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
@@ -202,6 +203,7 @@ Arrays , searching ,sorting
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
+| [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +212,7 @@ Arrays , searching ,sorting
 | [0221-maximal-square](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
+| [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
