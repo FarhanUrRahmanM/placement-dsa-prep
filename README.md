@@ -200,6 +200,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 ## Matrix
 |  |
@@ -356,6 +357,7 @@ Arrays , searching ,sorting
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Geometry
