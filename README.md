@@ -264,6 +264,7 @@ Arrays , searching ,sorting
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
@@ -295,6 +296,7 @@ Arrays , searching ,sorting
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0143-reorder-list) |
@@ -411,6 +413,7 @@ Arrays , searching ,sorting
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0020-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
