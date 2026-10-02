@@ -294,6 +294,7 @@ Arrays , searching ,sorting
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -315,6 +316,7 @@ Arrays , searching ,sorting
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -407,6 +409,7 @@ Arrays , searching ,sorting
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
+| [2000-reverse-prefix-of-word](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Memoization
 |  |
