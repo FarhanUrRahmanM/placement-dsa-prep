@@ -77,6 +77,7 @@ Arrays , searching ,sorting
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
@@ -105,6 +106,7 @@ Arrays , searching ,sorting
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0077-combinations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0095-unique-binary-search-trees-ii) |
@@ -265,6 +267,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0126-word-ladder-ii) |
@@ -414,6 +417,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
