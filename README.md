@@ -92,6 +92,7 @@ Arrays , searching ,sorting
 | [0221-maximal-square](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
@@ -229,6 +230,7 @@ Arrays , searching ,sorting
 | [0138-copy-list-with-random-pointer](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
@@ -350,6 +352,7 @@ Arrays , searching ,sorting
 | [0227-basic-calculator-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0326-power-of-three) |
@@ -507,6 +510,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 ## Ordered Set
