@@ -299,6 +299,7 @@ Arrays , searching ,sorting
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
+| [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
@@ -369,6 +370,7 @@ Arrays , searching ,sorting
 | [0371-sum-of-two-integers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
+| [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
