@@ -32,6 +32,7 @@ Arrays , searching ,sorting
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
+| [0335-self-crossing](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
@@ -358,6 +359,7 @@ Arrays , searching ,sorting
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0326-power-of-three) |
+| [0335-self-crossing](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -392,6 +394,7 @@ Arrays , searching ,sorting
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 ## Recursion
