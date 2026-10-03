@@ -353,6 +353,7 @@ Arrays , searching ,sorting
 | [0227-basic-calculator-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
@@ -490,6 +491,7 @@ Arrays , searching ,sorting
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
@@ -632,4 +634,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
