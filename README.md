@@ -39,6 +39,7 @@ Arrays , searching ,sorting
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
+| [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
@@ -100,6 +101,7 @@ Arrays , searching ,sorting
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -122,6 +124,7 @@ Arrays , searching ,sorting
 | [0282-expression-add-operators](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
@@ -586,6 +589,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -641,4 +645,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
