@@ -35,6 +35,7 @@ Arrays , searching ,sorting
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0335-self-crossing](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
+| [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -377,6 +378,7 @@ Arrays , searching ,sorting
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
@@ -398,6 +400,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
+| [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
 |  |
@@ -671,4 +674,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
