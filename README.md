@@ -42,6 +42,7 @@ Arrays , searching ,sorting
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
@@ -519,6 +520,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
