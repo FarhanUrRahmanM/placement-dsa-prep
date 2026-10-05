@@ -26,6 +26,7 @@ Arrays , searching ,sorting
 | [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -408,6 +409,7 @@ Arrays , searching ,sorting
 | [0155-min-stack](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
@@ -439,6 +441,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
