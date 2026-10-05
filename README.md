@@ -313,6 +313,7 @@ Arrays , searching ,sorting
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
+| [0856-score-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1108-defanging-an-ip-address) |
@@ -340,6 +341,7 @@ Arrays , searching ,sorting
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -461,6 +463,7 @@ Arrays , searching ,sorting
 | [0032-longest-valid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
