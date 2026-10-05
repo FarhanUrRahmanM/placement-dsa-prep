@@ -112,6 +112,7 @@ Arrays , searching ,sorting
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
+| [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
@@ -399,6 +400,7 @@ Arrays , searching ,sorting
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
@@ -487,6 +489,7 @@ Arrays , searching ,sorting
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Divide and Conquer
 |  |
