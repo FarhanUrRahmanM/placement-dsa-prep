@@ -31,6 +31,7 @@ Arrays , searching ,sorting
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0312-burst-balloons) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
@@ -187,6 +188,7 @@ Arrays , searching ,sorting
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
@@ -521,6 +523,7 @@ Arrays , searching ,sorting
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
@@ -542,6 +545,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 ## Bidirectional Search
 |  |
@@ -582,12 +586,14 @@ Arrays , searching ,sorting
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
 ## Heap (Priority Queue)
@@ -602,6 +608,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0218-the-skyline-problem) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
@@ -731,6 +738,7 @@ Arrays , searching ,sorting
 ## Treap
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 ## Randomized
 |  |
