@@ -265,6 +265,7 @@ Arrays , searching ,sorting
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -407,6 +408,7 @@ Arrays , searching ,sorting
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
+| [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
@@ -724,6 +726,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -732,4 +735,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
