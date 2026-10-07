@@ -273,6 +273,7 @@ Arrays , searching ,sorting
 | [0242-valid-anagram](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -335,6 +336,7 @@ Arrays , searching ,sorting
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0383-ransom-note) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
@@ -707,6 +709,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
