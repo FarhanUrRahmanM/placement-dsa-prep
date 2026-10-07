@@ -42,6 +42,7 @@ Arrays , searching ,sorting
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0376-wiggle-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
@@ -195,6 +196,7 @@ Arrays , searching ,sorting
 | [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -260,6 +262,7 @@ Arrays , searching ,sorting
 | [0240-search-a-2d-matrix-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -545,6 +548,7 @@ Arrays , searching ,sorting
 | [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
@@ -611,6 +615,7 @@ Arrays , searching ,sorting
 | [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 ## Ordered Set
 |  |
