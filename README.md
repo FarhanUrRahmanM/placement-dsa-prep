@@ -53,6 +53,7 @@ Arrays , searching ,sorting
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
@@ -198,6 +199,7 @@ Arrays , searching ,sorting
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
@@ -539,6 +541,7 @@ Arrays , searching ,sorting
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -559,6 +562,7 @@ Arrays , searching ,sorting
 | [0148-sort-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -600,6 +604,7 @@ Arrays , searching ,sorting
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -607,6 +612,7 @@ Arrays , searching ,sorting
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -625,6 +631,7 @@ Arrays , searching ,sorting
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 ## Algorithm X
 |  |
 | ------- |
@@ -754,6 +761,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 ## Randomized
 |  |
 | ------- |
