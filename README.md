@@ -251,6 +251,7 @@ Arrays , searching ,sorting
 | [0257-binary-tree-paths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
@@ -314,6 +315,7 @@ Arrays , searching ,sorting
 | [0301-remove-invalid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
@@ -430,6 +432,7 @@ Arrays , searching ,sorting
 | [0326-power-of-three](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
@@ -739,10 +742,12 @@ Arrays , searching ,sorting
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 ## Minimax
 |  |
@@ -787,4 +792,12 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0334-increasing-triplet-subsequence) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
