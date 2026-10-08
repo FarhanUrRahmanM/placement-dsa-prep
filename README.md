@@ -102,6 +102,7 @@ Arrays , searching ,sorting
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -435,6 +436,7 @@ Arrays , searching ,sorting
 | [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
@@ -774,6 +776,7 @@ Arrays , searching ,sorting
 ## Randomized
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 ## Monotonic Stack
@@ -787,6 +790,7 @@ Arrays , searching ,sorting
 ## Reservoir Sampling
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 ## Longest Increasing Subsequence
 |  |
