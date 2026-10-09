@@ -80,6 +80,7 @@ Arrays , searching ,sorting
 | [0334-increasing-triplet-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
@@ -358,6 +359,7 @@ Arrays , searching ,sorting
 | [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
@@ -397,6 +399,7 @@ Arrays , searching ,sorting
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
+| [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0856-score-of-parentheses) |
@@ -796,6 +799,7 @@ Arrays , searching ,sorting
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 ## Quicksort
 |  |
