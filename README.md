@@ -286,6 +286,7 @@ Arrays , searching ,sorting
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
@@ -354,6 +355,7 @@ Arrays , searching ,sorting
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
+| [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
@@ -415,6 +417,7 @@ Arrays , searching ,sorting
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
 | [0371-sum-of-two-integers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Database
@@ -570,6 +573,7 @@ Arrays , searching ,sorting
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
