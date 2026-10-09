@@ -76,6 +76,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0135-candy) |
+| [0316-remove-duplicate-letters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0376-wiggle-subsequence) |
@@ -351,6 +352,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0306-additive-number) |
+| [0316-remove-duplicate-letters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0318-maximum-product-of-word-lengths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0345-reverse-vowels-of-a-string) |
@@ -398,6 +400,7 @@ Arrays , searching ,sorting
 | [0227-basic-calculator-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
+| [0316-remove-duplicate-letters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
@@ -803,6 +806,7 @@ Arrays , searching ,sorting
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 ## Quicksort
