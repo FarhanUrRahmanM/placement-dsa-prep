@@ -72,6 +72,7 @@ Arrays , searching ,sorting
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
@@ -871,4 +872,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
