@@ -65,6 +65,7 @@ Arrays , searching ,sorting
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
+| [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0764-largest-plus-sign](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0764-largest-plus-sign) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
@@ -297,6 +298,7 @@ Arrays , searching ,sorting
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
+| [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
@@ -662,6 +664,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
