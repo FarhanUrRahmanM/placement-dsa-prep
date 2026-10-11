@@ -60,6 +60,7 @@ Arrays , searching ,sorting
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
@@ -317,6 +318,7 @@ Arrays , searching ,sorting
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
@@ -426,6 +428,7 @@ Arrays , searching ,sorting
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0591-tag-validator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0591-tag-validator) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0856-score-of-parentheses) |
@@ -844,6 +847,7 @@ Arrays , searching ,sorting
 | [0316-remove-duplicate-letters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 ## Quicksort
 |  |
 | ------- |
