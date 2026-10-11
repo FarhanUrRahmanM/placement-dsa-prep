@@ -63,6 +63,7 @@ Arrays , searching ,sorting
 | [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0764-largest-plus-sign](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0764-largest-plus-sign) |
@@ -92,6 +93,7 @@ Arrays , searching ,sorting
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -622,6 +624,7 @@ Arrays , searching ,sorting
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -806,6 +809,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0274-h-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 ## Euclidean Algorithm
 |  |
 | ------- |
