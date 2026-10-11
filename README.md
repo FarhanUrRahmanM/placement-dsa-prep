@@ -201,6 +201,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
+| [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Arrays , searching ,sorting
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
+| [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
 ## Matrix
 |  |
@@ -347,6 +350,7 @@ Arrays , searching ,sorting
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
+| [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
