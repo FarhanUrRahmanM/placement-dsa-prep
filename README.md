@@ -330,6 +330,7 @@ Arrays , searching ,sorting
 | [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0567-permutation-in-string) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0763-partition-labels](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0763-partition-labels) |
@@ -400,6 +401,7 @@ Arrays , searching ,sorting
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0567-permutation-in-string) |
 | [0591-tag-validator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0591-tag-validator) |
@@ -530,6 +532,7 @@ Arrays , searching ,sorting
 | [0380-insert-delete-getrandom-o1](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
+| [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
 |  |
@@ -751,6 +754,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 ## Manacher
 |  |
 | ------- |
