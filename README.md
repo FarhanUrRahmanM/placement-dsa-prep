@@ -504,6 +504,7 @@ Arrays , searching ,sorting
 | [0445-add-two-numbers-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
+| [0492-construct-the-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0492-construct-the-rectangle) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
