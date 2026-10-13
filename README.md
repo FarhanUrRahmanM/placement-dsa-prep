@@ -402,6 +402,7 @@ Arrays , searching ,sorting
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
+| [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0567-permutation-in-string) |
 | [0591-tag-validator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0591-tag-validator) |
@@ -507,6 +508,7 @@ Arrays , searching ,sorting
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0492-construct-the-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0492-construct-the-rectangle) |
+| [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
@@ -580,6 +582,7 @@ Arrays , searching ,sorting
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0763-partition-labels) |
 | [2000-reverse-prefix-of-word](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2000-reverse-prefix-of-word) |
