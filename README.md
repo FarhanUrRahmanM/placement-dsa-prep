@@ -50,6 +50,7 @@ Arrays , searching ,sorting
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
@@ -225,6 +226,7 @@ Arrays , searching ,sorting
 | [0374-guess-number-higher-or-lower](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -640,6 +642,7 @@ Arrays , searching ,sorting
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
+| [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
