@@ -403,6 +403,7 @@ Arrays , searching ,sorting
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
@@ -583,6 +584,7 @@ Arrays , searching ,sorting
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
