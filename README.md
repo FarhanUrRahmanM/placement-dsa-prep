@@ -207,6 +207,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
@@ -284,6 +285,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
+| [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 | [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0386-lexicographical-numbers) |
@@ -443,6 +445,7 @@ Arrays , searching ,sorting
 | [0234-palindrome-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
@@ -536,6 +539,7 @@ Arrays , searching ,sorting
 | [0303-range-sum-query-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0307-range-sum-query-mutable) |
+| [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
@@ -681,6 +685,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0387-first-unique-character-in-a-string) |
 ## Simulation
 |  |
@@ -924,4 +929,8 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2778-sum-of-squares-of-special-elements) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
