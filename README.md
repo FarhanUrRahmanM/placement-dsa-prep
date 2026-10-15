@@ -166,6 +166,7 @@ Arrays , searching ,sorting
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2050-parallel-courses-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2050-parallel-courses-iii) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -434,6 +435,7 @@ Arrays , searching ,sorting
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2000-reverse-prefix-of-word) |
+| [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
