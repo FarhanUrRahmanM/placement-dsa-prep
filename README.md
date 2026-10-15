@@ -48,6 +48,7 @@ Arrays , searching ,sorting
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
+| [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
@@ -153,6 +154,7 @@ Arrays , searching ,sorting
 | [0376-wiggle-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
+| [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -807,6 +809,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0279-perfect-squares](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
@@ -871,6 +874,7 @@ Arrays , searching ,sorting
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 ## Treap
 |  |
