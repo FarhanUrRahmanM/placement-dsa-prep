@@ -78,6 +78,7 @@ Arrays , searching ,sorting
 | [2333-minimum-sum-of-squared-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
@@ -343,6 +344,7 @@ Arrays , searching ,sorting
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -710,6 +712,7 @@ Arrays , searching ,sorting
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -719,6 +722,7 @@ Arrays , searching ,sorting
 | [0327-count-of-range-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0327-count-of-range-sum) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
 ## Heap (Priority Queue)
 |  |
