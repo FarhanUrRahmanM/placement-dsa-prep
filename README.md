@@ -75,6 +75,7 @@ Arrays , searching ,sorting
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2050-parallel-courses-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2050-parallel-courses-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -164,6 +165,7 @@ Arrays , searching ,sorting
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2050-parallel-courses-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2050-parallel-courses-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
@@ -376,6 +378,7 @@ Arrays , searching ,sorting
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
+| [2050-parallel-courses-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2050-parallel-courses-iii) |
 ## String
 |  |
 | ------- |
@@ -759,10 +762,12 @@ Arrays , searching ,sorting
 | ------- |
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0310-minimum-height-trees) |
+| [2050-parallel-courses-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2050-parallel-courses-iii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0207-course-schedule) |
+| [2050-parallel-courses-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2050-parallel-courses-iii) |
 ## Rolling Hash
 |  |
 | ------- |
