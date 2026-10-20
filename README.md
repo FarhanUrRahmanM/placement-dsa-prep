@@ -73,6 +73,7 @@ Arrays , searching ,sorting
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1001-grid-illumination](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1001-grid-illumination) |
+| [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -301,6 +302,7 @@ Arrays , searching ,sorting
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
+| [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Arrays , searching ,sorting
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
+| [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
@@ -373,6 +376,7 @@ Arrays , searching ,sorting
 | [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
+| [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 ## Graph Theory
 |  |
@@ -711,6 +715,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0200-number-of-islands](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
+| [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Binary Indexed Tree
 |  |
