@@ -72,6 +72,7 @@ Arrays , searching ,sorting
 | [0764-largest-plus-sign](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0764-largest-plus-sign) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1001-grid-illumination](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1001-grid-illumination) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -345,6 +346,7 @@ Arrays , searching ,sorting
 | [0567-permutation-in-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0567-permutation-in-string) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 | [0763-partition-labels](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0763-partition-labels) |
+| [1001-grid-illumination](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1001-grid-illumination) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
