@@ -132,6 +132,7 @@ Arrays , searching ,sorting
 | [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0460-lfu-cache) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Arrays , searching ,sorting
 | [0451-sort-characters-by-frequency](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -578,6 +580,7 @@ Arrays , searching ,sorting
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
@@ -789,6 +792,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0146-lru-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0460-lfu-cache) |
 ## Topological Sort
 |  |
 | ------- |
