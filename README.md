@@ -56,6 +56,7 @@ Arrays , searching ,sorting
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
@@ -545,6 +546,7 @@ Arrays , searching ,sorting
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0492-construct-the-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0492-construct-the-rectangle) |
 | [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
