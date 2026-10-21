@@ -65,6 +65,7 @@ Arrays , searching ,sorting
 | [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
@@ -160,6 +161,7 @@ Arrays , searching ,sorting
 | [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
+| [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
 | [0764-largest-plus-sign](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0764-largest-plus-sign) |
@@ -617,6 +619,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
+| [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
 ## Bracket Sequences
 |  |
 | ------- |
