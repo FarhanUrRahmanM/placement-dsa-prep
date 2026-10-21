@@ -221,6 +221,7 @@ Arrays , searching ,sorting
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
@@ -241,6 +242,7 @@ Arrays , searching ,sorting
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -272,6 +274,7 @@ Arrays , searching ,sorting
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
@@ -305,6 +308,7 @@ Arrays , searching ,sorting
 | [0388-longest-absolute-file-path](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0388-longest-absolute-file-path) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
 | [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
@@ -381,6 +385,7 @@ Arrays , searching ,sorting
 | [0322-coin-change](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
@@ -426,6 +431,7 @@ Arrays , searching ,sorting
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
@@ -564,6 +570,7 @@ Arrays , searching ,sorting
 | [0380-insert-delete-getrandom-o1](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
+| [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0535-encode-and-decode-tinyurl](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0535-encode-and-decode-tinyurl) |
 | [0745-prefix-and-suffix-search](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0745-prefix-and-suffix-search) |
 ## Trie
