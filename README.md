@@ -53,6 +53,7 @@ Arrays , searching ,sorting
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
@@ -159,6 +160,7 @@ Arrays , searching ,sorting
 | [0377-combination-sum-iv](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
