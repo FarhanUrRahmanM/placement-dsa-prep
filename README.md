@@ -66,6 +66,7 @@ Arrays , searching ,sorting
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
@@ -250,6 +251,7 @@ Arrays , searching ,sorting
 | [0450-delete-node-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0450-delete-node-in-a-bst) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -552,6 +554,7 @@ Arrays , searching ,sorting
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
 | [0492-construct-the-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
@@ -614,6 +617,7 @@ Arrays , searching ,sorting
 | [0303-range-sum-query-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0304-range-sum-query-2d-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -784,6 +788,7 @@ Arrays , searching ,sorting
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Algorithm X
 |  |
 | ------- |
@@ -933,6 +938,7 @@ Arrays , searching ,sorting
 | [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -949,6 +955,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
