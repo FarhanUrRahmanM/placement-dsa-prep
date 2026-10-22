@@ -67,6 +67,7 @@ Arrays , searching ,sorting
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
@@ -331,6 +332,7 @@ Arrays , searching ,sorting
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
+| [0498-diagonal-traverse](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
 | [0835-image-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0835-image-overlap) |
 | [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
@@ -737,6 +739,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
