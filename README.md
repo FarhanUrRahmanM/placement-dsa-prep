@@ -69,6 +69,7 @@ Arrays , searching ,sorting
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0500-keyboard-row) |
+| [0502-ipo](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0546-remove-boxes](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
@@ -107,6 +108,7 @@ Arrays , searching ,sorting
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0763-partition-labels) |
@@ -702,6 +704,7 @@ Arrays , searching ,sorting
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
 | [1096-brace-expansion-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1096-brace-expansion-ii) |
@@ -785,6 +788,7 @@ Arrays , searching ,sorting
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0451-sort-characters-by-frequency](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0502-ipo) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ordered Set
 |  |
