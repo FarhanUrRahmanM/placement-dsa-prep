@@ -228,6 +228,7 @@ Arrays , searching ,sorting
 | [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Search Tree
 |  |
@@ -253,6 +254,7 @@ Arrays , searching ,sorting
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -284,6 +286,7 @@ Arrays , searching ,sorting
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
@@ -318,6 +321,7 @@ Arrays , searching ,sorting
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [0565-array-nesting](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0565-array-nesting) |
 | [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
