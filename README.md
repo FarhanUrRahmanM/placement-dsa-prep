@@ -474,6 +474,7 @@ Arrays , searching ,sorting
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2000-reverse-prefix-of-word) |
 | [2060-check-if-an-original-string-exists-given-two-encoded-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2060-check-if-an-original-string-exists-given-two-encoded-strings) |
+| [2409-count-days-spent-together](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
@@ -570,6 +571,7 @@ Arrays , searching ,sorting
 | [0592-fraction-addition-and-subtraction](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
