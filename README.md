@@ -49,6 +49,7 @@ Arrays , searching ,sorting
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -173,6 +174,7 @@ Arrays , searching ,sorting
 | [0377-combination-sum-iv](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
@@ -741,6 +743,7 @@ Arrays , searching ,sorting
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
