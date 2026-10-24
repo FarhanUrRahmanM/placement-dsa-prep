@@ -456,6 +456,7 @@ Arrays , searching ,sorting
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0415-add-strings) |
 | [0420-strong-password-checker](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0420-strong-password-checker) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0434-number-of-segments-in-a-string) |
@@ -569,6 +570,7 @@ Arrays , searching ,sorting
 | [0391-perfect-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0391-perfect-rectangle) |
 | [0398-random-pick-index](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0400-nth-digit) |
+| [0415-add-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
@@ -763,6 +765,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0566-reshape-the-matrix) |
