@@ -143,6 +143,7 @@ Arrays , searching ,sorting
 | [0237-delete-node-in-a-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0460-lfu-cache) |
@@ -335,6 +336,7 @@ Arrays , searching ,sorting
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
@@ -837,6 +839,7 @@ Arrays , searching ,sorting
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0460-lfu-cache) |
 ## Topological Sort
