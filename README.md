@@ -238,6 +238,7 @@ Arrays , searching ,sorting
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0341-flatten-nested-list-iterator) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -418,6 +419,7 @@ Arrays , searching ,sorting
 | [0365-water-and-jug-problem](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0417-pacific-atlantic-water-flow) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0513-find-bottom-left-tree-value) |
 | [1020-number-of-enclaves](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/1020-number-of-enclaves) |
