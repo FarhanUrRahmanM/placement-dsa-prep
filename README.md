@@ -50,6 +50,7 @@ Arrays , searching ,sorting
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -718,6 +719,7 @@ Arrays , searching ,sorting
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0451-sort-characters-by-frequency) |
