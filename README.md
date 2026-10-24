@@ -61,6 +61,7 @@ Arrays , searching ,sorting
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0494-target-sum) |
@@ -564,6 +565,7 @@ Arrays , searching ,sorting
 | [0447-number-of-boomerangs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0458-poor-pigs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0556-next-greater-element-iii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0556-next-greater-element-iii) |
@@ -708,6 +710,7 @@ Arrays , searching ,sorting
 | [0442-find-all-duplicates-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0502-ipo) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/FarhanUrRahmanM/placement-dsa-prep/tree/master/0561-array-partition) |
